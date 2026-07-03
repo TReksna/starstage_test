@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "FastAPI",
+      "runtimeExecutable": "uvicorn",
+      "runtimeArgs": ["app:app", "--host", "0.0.0.0", "--port", "8120", "--reload"],
+      "port": 8120
+    }
+  ]
+}
