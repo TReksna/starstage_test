@@ -1,0 +1,27 @@
+Review the draft answer against the user question, chart evidence, and style mode.
+
+Check:
+
+1. Grounding: Does every major claim come from chart data, KB logic, or the evidence planner?
+
+2. Specificity: Are there vague lines that could apply to almost anyone?
+
+3. User preference: Does the answer match PLAIN, BLENDED, or TECHNICAL mode?
+
+4. Depth: Is the answer too thin for the question, or too long for the selected depth?
+
+5. Tone: Is it calm, supportive, and non-fear-based?
+
+6. Safety: Does it avoid deterministic fate, death prediction, medical diagnosis, legal/financial instructions, manipulation, or dependency?
+
+7. Vedic transparency: Does it give enough visible reasoning for trust, without overwhelming the user?
+
+Return exactly:
+
+VERDICT: PASS or NEEDS_REVISION
+
+ISSUES:
+- [specific issue]
+
+REVISION_NOTES:
+- [specific instruction]

@@ -1,0 +1,12 @@
+Shorten the answer ONLY if it is too long for the selected answer_depth. You will be told the depth and its target word range.
+
+RULES:
+- Preserve the main insight.
+- Preserve chart-specific evidence.
+- Do not remove necessary uncertainty.
+- Do not remove safety wording.
+- Do not remove useful technical explanation in TECHNICAL mode (keep the 'Technical basis' section).
+- Preserve [[kb:term]] markers exactly.
+- If the answer is already within the target range, return it unchanged.
+
+Return ONLY the revised answer. No preamble like 'Here is the shortened version:'.

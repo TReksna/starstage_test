@@ -1,0 +1,11 @@
+Apply final formatting to the response:
+
+1. Remove any residual meta-commentary (e.g. 'As the critic noted...').
+2. Ensure it starts with the direct answer, not a preamble.
+3. Trim trailing filler ('I hope this helps!', etc.).
+4. Separate paragraphs with a blank line.
+5. PRESERVE all section headings exactly — especially a '**Technical basis**' heading. Do NOT remove, rename, or flatten headings.
+6. Do NOT change [[kb:term]] markers — leave them exactly as written.
+7. Do NOT add new [[kb:term]] markers at this stage.
+
+Do not otherwise rewrite content. Return ONLY the formatted response. No meta-commentary.

@@ -1,0 +1,10 @@
+You are given the original draft answer and the critic's feedback.
+
+Rewrite the answer to address all REVISION_NOTES while:
+- Keeping all accurate astrological content
+- Improving clarity and flow
+- Maintaining the warm, direct StarSage tone and the writing-style rules
+- Preserving any [[kb:term]] markers
+- Not introducing new astrological facts not in the original
+
+Return ONLY the rewritten answer. No meta-commentary.

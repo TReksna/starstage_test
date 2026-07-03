@@ -1,0 +1,644 @@
+2026-06-22 00:05:54,683 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 00:05:56,297 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 00:05:59,594 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 00:06:03,598 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 00:23:06,350 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/autocomplete/json?input=Delhi&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4&types=%28cities%29&language=en "HTTP/1.1 200 OK"
+2026-06-22 00:23:06,462 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJL_P_CXMEDTkRw0ZdG-0GVvw&fields=geometry%2Caddress_components&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-06-22 00:23:06,668 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/timezone/json?location=28.6814551%2C77.22279&timestamp=631144800&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-06-22 00:23:07,042 - INFO - 7 changes detected
+2026-06-22 00:23:07,402 - INFO - 2 changes detected
+2026-06-22 00:23:13,617 - INFO - 2 changes detected
+2026-06-22 00:23:16,463 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 00:23:16,565 - INFO - 4 changes detected
+2026-06-22 00:23:40,441 - INFO - 4 changes detected
+2026-06-22 00:25:02,452 - INFO - 4 changes detected
+2026-06-22 00:25:08,688 - INFO - 4 changes detected
+2026-06-22 00:25:49,625 - INFO - 2 changes detected
+2026-06-22 00:25:50,887 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 00:25:52,164 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 00:25:58,886 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 00:26:05,665 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 00:26:05,798 - INFO - 4 changes detected
+2026-06-22 00:26:29,492 - INFO - 4 changes detected
+2026-06-22 00:27:38,016 - INFO - 4 changes detected
+2026-06-22 00:28:03,745 - INFO - 4 changes detected
+2026-06-22 00:28:08,666 - INFO - 4 changes detected
+2026-06-22 00:28:16,980 - INFO - 4 changes detected
+2026-06-22 00:28:21,494 - INFO - 4 changes detected
+2026-06-22 00:28:23,020 - INFO - 4 changes detected
+2026-06-22 00:28:27,225 - INFO - 4 changes detected
+2026-06-22 00:28:32,379 - INFO - 4 changes detected
+2026-06-22 00:28:34,719 - INFO - 4 changes detected
+2026-06-22 00:42:08,700 - INFO - 1 change detected
+2026-06-22 00:47:47,433 - INFO - 4 changes detected
+2026-06-22 01:05:28,989 - INFO - 4 changes detected
+2026-06-22 01:08:10,429 - INFO - 4 changes detected
+2026-06-22 01:08:11,788 - INFO - 4 changes detected
+2026-06-22 01:08:14,613 - INFO - 4 changes detected
+2026-06-22 01:12:08,179 - INFO - 1 change detected
+2026-06-22 01:40:29,202 - INFO - 4 changes detected
+2026-06-22 01:40:30,617 - INFO - 1 change detected
+2026-06-22 01:40:46,882 - INFO - 4 changes detected
+2026-06-22 01:40:47,708 - INFO - 1 change detected
+2026-06-22 01:40:57,744 - INFO - 4 changes detected
+2026-06-22 01:40:58,482 - INFO - 1 change detected
+2026-06-22 01:41:16,663 - INFO - 4 changes detected
+2026-06-22 01:41:17,434 - INFO - 1 change detected
+2026-06-22 01:41:25,217 - INFO - 4 changes detected
+2026-06-22 01:41:26,002 - INFO - 1 change detected
+2026-06-22 01:41:56,394 - INFO - 4 changes detected
+2026-06-22 01:41:57,102 - INFO - 1 change detected
+2026-06-22 01:42:07,401 - INFO - 4 changes detected
+2026-06-22 01:42:08,146 - INFO - 1 change detected
+2026-06-22 01:42:08,505 - INFO - 1 change detected
+2026-06-22 01:42:42,615 - INFO - 4 changes detected
+2026-06-22 01:42:43,323 - INFO - 1 change detected
+2026-06-22 01:42:49,141 - INFO - 4 changes detected
+2026-06-22 01:42:49,961 - INFO - 1 change detected
+2026-06-22 01:43:06,763 - INFO - 4 changes detected
+2026-06-22 01:43:07,476 - INFO - 1 change detected
+2026-06-22 01:43:17,470 - INFO - 4 changes detected
+2026-06-22 01:43:18,199 - INFO - 1 change detected
+2026-06-22 01:43:26,224 - INFO - 4 changes detected
+2026-06-22 01:43:26,923 - INFO - 1 change detected
+2026-06-22 01:43:27,275 - INFO - 5 changes detected
+2026-06-22 01:43:31,267 - INFO - 4 changes detected
+2026-06-22 01:43:32,042 - INFO - 1 change detected
+2026-06-22 01:43:32,400 - INFO - 5 changes detected
+2026-06-22 01:43:39,713 - INFO - 4 changes detected
+2026-06-22 01:43:40,528 - INFO - 1 change detected
+2026-06-22 01:43:40,894 - INFO - 5 changes detected
+2026-06-22 01:43:43,422 - INFO - 4 changes detected
+2026-06-22 01:43:44,238 - INFO - 1 change detected
+2026-06-22 01:43:44,591 - INFO - 5 changes detected
+2026-06-22 01:43:46,971 - INFO - 4 changes detected
+2026-06-22 01:43:47,708 - INFO - 1 change detected
+2026-06-22 01:43:48,061 - INFO - 5 changes detected
+2026-06-22 01:44:02,604 - INFO - 4 changes detected
+2026-06-22 01:44:03,362 - INFO - 1 change detected
+2026-06-22 01:44:03,727 - INFO - 5 changes detected
+2026-06-22 01:44:10,622 - INFO - 4 changes detected
+2026-06-22 01:44:11,396 - INFO - 1 change detected
+2026-06-22 01:44:11,756 - INFO - 5 changes detected
+2026-06-22 01:44:26,337 - INFO - 4 changes detected
+2026-06-22 01:44:27,130 - INFO - 1 change detected
+2026-06-22 01:44:27,484 - INFO - 5 changes detected
+2026-06-22 01:44:46,403 - INFO - 4 changes detected
+2026-06-22 01:44:55,059 - INFO - 4 changes detected
+2026-06-22 01:45:03,430 - INFO - 4 changes detected
+2026-06-22 01:45:09,787 - INFO - 4 changes detected
+2026-06-22 01:46:03,240 - INFO - 4 changes detected
+2026-06-22 01:46:37,845 - INFO - 4 changes detected
+2026-06-22 01:46:38,654 - INFO - 1 change detected
+2026-06-22 01:46:39,008 - INFO - 5 changes detected
+2026-06-22 01:46:47,899 - INFO - 4 changes detected
+2026-06-22 01:46:48,692 - INFO - 1 change detected
+2026-06-22 01:46:49,058 - INFO - 5 changes detected
+2026-06-22 01:47:12,187 - INFO - 4 changes detected
+2026-06-22 01:47:13,002 - INFO - 1 change detected
+2026-06-22 01:47:13,357 - INFO - 5 changes detected
+2026-06-22 01:48:36,967 - INFO - 4 changes detected
+2026-06-22 01:48:37,739 - INFO - 1 change detected
+2026-06-22 01:48:38,099 - INFO - 5 changes detected
+2026-06-22 01:48:44,020 - INFO - 5 changes detected
+2026-06-22 01:48:44,381 - INFO - 5 changes detected
+2026-06-22 01:48:51,643 - INFO - 5 changes detected
+2026-06-22 01:50:12,247 - INFO - 1 change detected
+2026-06-22 01:50:12,607 - INFO - 7 changes detected
+2026-06-22 01:50:37,461 - INFO - 4 changes detected
+2026-06-22 02:12:08,897 - INFO - 1 change detected
+2026-06-22 02:28:08,850 - INFO - 4 changes detected
+2026-06-22 02:28:32,825 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/autocomplete/json?input=Delhi&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4&types=%28cities%29&language=en "HTTP/1.1 200 OK"
+2026-06-22 02:28:32,920 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJL_P_CXMEDTkRw0ZdG-0GVvw&fields=geometry%2Caddress_components&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-06-22 02:28:33,012 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/timezone/json?location=28.6814551%2C77.22279&timestamp=631144800&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-06-22 02:28:33,259 - INFO - 2 changes detected
+2026-06-22 02:28:33,624 - INFO - 6 changes detected
+2026-06-22 02:28:33,981 - INFO - 2 changes detected
+2026-06-22 02:28:36,006 - INFO - 2 changes detected
+2026-06-22 02:28:39,517 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 02:28:39,631 - INFO - 4 changes detected
+2026-06-22 02:29:14,007 - INFO - 2 changes detected
+2026-06-22 02:29:15,700 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 02:29:17,325 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 02:29:21,452 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 02:29:24,001 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 02:29:24,108 - INFO - 4 changes detected
+2026-06-22 02:29:56,968 - INFO - 2 changes detected
+2026-06-22 02:29:58,352 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 02:29:58,436 - INFO - 4 changes detected
+2026-06-22 02:30:16,662 - INFO - 2 changes detected
+2026-06-22 02:30:18,166 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 02:30:19,507 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 02:30:23,039 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 02:30:26,865 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 02:30:26,948 - INFO - 4 changes detected
+2026-06-22 02:30:59,107 - INFO - 4 changes detected
+2026-06-22 02:31:15,370 - INFO - 4 changes detected
+2026-06-22 02:31:33,836 - INFO - 4 changes detected
+2026-06-22 02:31:38,015 - INFO - 4 changes detected
+2026-06-22 02:31:44,587 - INFO - 4 changes detected
+2026-06-22 02:54:33,766 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/autocomplete/json?input=Delhi&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4&types=%28cities%29&language=en "HTTP/1.1 200 OK"
+2026-06-22 02:54:33,859 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJL_P_CXMEDTkRw0ZdG-0GVvw&fields=geometry%2Caddress_components&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-06-22 02:54:33,963 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/timezone/json?location=28.6814551%2C77.22279&timestamp=631144800&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-06-22 02:54:34,236 - INFO - 2 changes detected
+2026-06-22 02:54:34,257 - INFO - 2 changes detected
+2026-06-22 02:54:34,589 - INFO - 7 changes detected
+2026-06-22 02:54:34,670 - INFO - 8 changes detected
+2026-06-22 02:54:34,942 - INFO - 1 change detected
+2026-06-22 02:54:48,719 - INFO - 2 changes detected
+2026-06-22 02:54:48,729 - INFO - 2 changes detected
+2026-06-22 02:54:52,340 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 02:54:52,458 - INFO - 4 changes detected
+2026-06-22 02:55:25,363 - INFO - 4 changes detected
+2026-06-22 02:55:25,364 - INFO - 4 changes detected
+2026-06-22 02:55:37,173 - INFO - 4 changes detected
+2026-06-22 02:55:49,115 - INFO - 2 changes detected
+2026-06-22 02:55:49,115 - INFO - 2 changes detected
+2026-06-22 02:55:50,958 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 02:55:51,038 - INFO - 4 changes detected
+2026-06-22 02:55:56,438 - INFO - 4 changes detected
+2026-06-22 02:55:56,438 - INFO - 4 changes detected
+2026-06-22 02:56:06,664 - INFO - 4 changes detected
+2026-06-22 02:56:09,096 - INFO - 4 changes detected
+2026-06-22 02:56:25,346 - INFO - 4 changes detected
+2026-06-22 02:56:39,615 - INFO - 2 changes detected
+2026-06-22 02:56:41,091 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 02:56:41,189 - INFO - 4 changes detected
+2026-06-22 02:56:41,189 - INFO - 4 changes detected
+2026-06-22 02:57:04,791 - INFO - 4 changes detected
+2026-06-22 02:57:04,791 - INFO - 4 changes detected
+2026-06-22 03:02:53,335 - INFO - 4 changes detected
+2026-06-22 03:02:59,328 - INFO - 4 changes detected
+2026-06-22 03:02:59,329 - INFO - 4 changes detected
+2026-06-22 03:03:02,824 - INFO - 4 changes detected
+2026-06-22 03:03:02,827 - INFO - 4 changes detected
+2026-06-22 03:11:08,716 - INFO - 1 change detected
+2026-06-22 03:11:08,727 - INFO - 1 change detected
+2026-06-22 03:11:22,039 - INFO - 1 change detected
+2026-06-22 03:11:22,070 - INFO - 1 change detected
+2026-06-22 09:02:42,628 - INFO - 1 change detected
+2026-06-22 09:02:42,628 - INFO - 1 change detected
+2026-06-22 09:32:42,618 - INFO - 1 change detected
+2026-06-22 09:32:42,619 - INFO - 1 change detected
+2026-06-22 09:56:14,945 - INFO - 4 changes detected
+2026-06-22 09:56:14,978 - INFO - 4 changes detected
+2026-06-22 09:59:54,195 - INFO - 4 changes detected
+2026-06-22 09:59:54,197 - INFO - 4 changes detected
+2026-06-22 09:59:58,947 - INFO - 4 changes detected
+2026-06-22 10:00:00,412 - INFO - 4 changes detected
+2026-06-22 10:00:04,610 - INFO - 4 changes detected
+2026-06-22 10:00:04,610 - INFO - 4 changes detected
+2026-06-22 10:00:09,285 - INFO - 4 changes detected
+2026-06-22 10:00:13,441 - INFO - 4 changes detected
+2026-06-22 10:00:15,274 - INFO - 4 changes detected
+2026-06-22 10:00:15,275 - INFO - 4 changes detected
+2026-06-22 10:00:18,938 - INFO - 4 changes detected
+2026-06-22 10:00:21,613 - INFO - 4 changes detected
+2026-06-22 10:00:21,613 - INFO - 4 changes detected
+2026-06-22 10:00:28,457 - INFO - 4 changes detected
+2026-06-22 10:00:28,457 - INFO - 4 changes detected
+2026-06-22 10:00:38,258 - INFO - 4 changes detected
+2026-06-22 10:00:53,367 - INFO - 4 changes detected
+2026-06-22 10:00:53,367 - INFO - 4 changes detected
+2026-06-22 10:00:54,077 - INFO - 4 changes detected
+2026-06-22 10:00:57,568 - INFO - 4 changes detected
+2026-06-22 10:00:58,323 - INFO - 4 changes detected
+2026-06-22 10:00:59,698 - INFO - 4 changes detected
+2026-06-22 10:01:13,928 - INFO - 2 changes detected
+2026-06-22 10:01:14,295 - INFO - 2 changes detected
+2026-06-22 10:01:14,296 - INFO - 2 changes detected
+2026-06-22 10:01:22,672 - INFO - 4 changes detected
+2026-06-22 10:01:28,760 - INFO - 4 changes detected
+2026-06-22 10:01:28,760 - INFO - 4 changes detected
+2026-06-22 10:01:34,396 - INFO - 4 changes detected
+2026-06-22 10:01:44,599 - INFO - 4 changes detected
+2026-06-22 10:01:57,433 - INFO - 4 changes detected
+2026-06-22 10:01:59,823 - INFO - 4 changes detected
+2026-06-22 10:02:14,690 - INFO - 4 changes detected
+2026-06-22 10:02:18,180 - INFO - 2 changes detected
+2026-06-22 10:02:18,545 - INFO - 2 changes detected
+2026-06-22 10:02:26,448 - INFO - 2 changes detected
+2026-06-22 10:02:26,514 - INFO - 4 changes detected
+2026-06-22 10:02:26,805 - INFO - 2 changes detected
+2026-06-22 10:02:34,656 - INFO - 4 changes detected
+2026-06-22 10:02:34,627 - INFO - 4 changes detected
+2026-06-22 10:02:38,236 - INFO - 4 changes detected
+2026-06-22 10:02:38,236 - INFO - 4 changes detected
+2026-06-22 10:02:43,020 - INFO - 4 changes detected
+2026-06-22 10:02:49,108 - INFO - 4 changes detected
+2026-06-22 10:02:51,495 - INFO - 2 changes detected
+2026-06-22 10:02:51,497 - INFO - 2 changes detected
+2026-06-22 10:02:51,861 - INFO - 2 changes detected
+2026-06-22 10:02:51,861 - INFO - 2 changes detected
+2026-06-22 10:02:56,627 - INFO - 4 changes detected
+2026-06-22 10:02:56,627 - INFO - 4 changes detected
+2026-06-22 10:03:11,236 - INFO - 4 changes detected
+2026-06-22 10:03:23,606 - INFO - 4 changes detected
+2026-06-22 10:03:26,859 - INFO - 4 changes detected
+2026-06-22 10:03:31,222 - INFO - 4 changes detected
+2026-06-22 10:03:35,021 - INFO - 4 changes detected
+2026-06-22 10:03:42,224 - INFO - 4 changes detected
+2026-06-22 10:03:42,225 - INFO - 4 changes detected
+2026-06-22 10:03:45,226 - INFO - 4 changes detected
+2026-06-22 10:03:45,267 - INFO - 4 changes detected
+2026-06-22 10:03:51,087 - INFO - 4 changes detected
+2026-06-22 10:03:51,091 - INFO - 4 changes detected
+2026-06-22 10:04:02,015 - INFO - 4 changes detected
+2026-06-22 10:04:02,015 - INFO - 4 changes detected
+2026-06-22 10:04:15,036 - INFO - 4 changes detected
+2026-06-22 10:04:19,008 - INFO - 4 changes detected
+2026-06-22 10:04:20,944 - INFO - 2 changes detected
+2026-06-22 10:04:21,045 - INFO - 4 changes detected
+2026-06-22 10:04:21,304 - INFO - 2 changes detected
+2026-06-22 10:04:22,867 - INFO - 4 changes detected
+2026-06-22 10:04:22,884 - INFO - 4 changes detected
+2026-06-22 10:04:43,078 - INFO - 4 changes detected
+2026-06-22 10:04:44,697 - INFO - 2 changes detected
+2026-06-22 10:04:45,049 - INFO - 2 changes detected
+2026-06-22 10:05:04,576 - INFO - 4 changes detected
+2026-06-22 10:05:11,524 - INFO - 2 changes detected
+2026-06-22 10:05:11,890 - INFO - 2 changes detected
+2026-06-22 10:05:11,890 - INFO - 2 changes detected
+2026-06-22 10:05:17,815 - INFO - 2 changes detected
+2026-06-22 10:05:17,815 - INFO - 2 changes detected
+2026-06-22 10:05:18,169 - INFO - 2 changes detected
+2026-06-22 10:05:28,066 - INFO - 4 changes detected
+2026-06-22 10:05:31,524 - INFO - 4 changes detected
+2026-06-22 10:05:34,518 - INFO - 4 changes detected
+2026-06-22 10:05:40,146 - INFO - 4 changes detected
+2026-06-22 10:05:45,470 - INFO - 2 changes detected
+2026-06-22 10:05:45,823 - INFO - 2 changes detected
+2026-06-22 10:05:45,823 - INFO - 2 changes detected
+2026-06-22 10:05:53,349 - INFO - 2 changes detected
+2026-06-22 10:05:53,421 - INFO - 4 changes detected
+2026-06-22 10:05:53,712 - INFO - 2 changes detected
+2026-06-22 10:05:56,568 - INFO - 4 changes detected
+2026-06-22 10:05:56,598 - INFO - 4 changes detected
+2026-06-22 10:06:01,330 - INFO - 4 changes detected
+2026-06-22 10:06:01,362 - INFO - 4 changes detected
+2026-06-22 10:06:06,598 - INFO - 4 changes detected
+2026-06-22 10:06:06,614 - INFO - 4 changes detected
+2026-06-22 10:06:38,789 - INFO - 4 changes detected
+2026-06-22 10:06:38,804 - INFO - 4 changes detected
+2026-06-22 10:06:45,338 - INFO - 4 changes detected
+2026-06-22 10:06:45,360 - INFO - 4 changes detected
+2026-06-22 10:06:52,580 - INFO - 4 changes detected
+2026-06-22 10:07:43,078 - INFO - 4 changes detected
+2026-06-22 10:07:58,585 - INFO - 4 changes detected
+2026-06-22 10:17:22,568 - INFO - 4 changes detected
+2026-06-22 10:17:22,575 - INFO - 4 changes detected
+2026-06-22 10:17:32,053 - INFO - 2 changes detected
+2026-06-22 10:17:32,409 - INFO - 2 changes detected
+2026-06-22 10:17:35,256 - INFO - 2 changes detected
+2026-06-22 10:17:35,611 - INFO - 2 changes detected
+2026-06-22 10:19:06,336 - INFO - 4 changes detected
+2026-06-22 10:31:42,176 - INFO - 1 change detected
+2026-06-22 10:31:42,179 - INFO - 1 change detected
+2026-06-22 10:31:42,538 - INFO - 1 change detected
+2026-06-22 10:31:44,670 - INFO - 1 change detected
+2026-06-22 10:31:45,033 - INFO - 1 change detected
+2026-06-22 10:40:03,049 - INFO - 4 changes detected
+2026-06-22 10:40:03,054 - INFO - 4 changes detected
+2026-06-22 10:47:42,871 - INFO - 1 change detected
+2026-06-22 10:47:42,871 - INFO - 1 change detected
+2026-06-22 10:53:28,332 - INFO - 4 changes detected
+2026-06-22 10:53:28,332 - INFO - 4 changes detected
+2026-06-22 10:59:43,760 - INFO - 4 changes detected
+2026-06-22 11:05:54,212 - INFO - 4 changes detected
+2026-06-22 11:05:54,219 - INFO - 4 changes detected
+2026-06-22 11:10:47,107 - INFO - 4 changes detected
+2026-06-22 11:16:04,442 - INFO - 2 changes detected
+2026-06-22 11:16:04,804 - INFO - 2 changes detected
+2026-06-22 11:16:04,805 - INFO - 2 changes detected
+2026-06-22 11:17:43,000 - INFO - 1 change detected
+2026-06-22 11:22:02,599 - INFO - 1 change detected
+2026-06-22 11:22:02,599 - INFO - 1 change detected
+2026-06-22 11:23:38,946 - INFO - 59 changes detected
+2026-06-22 11:23:38,947 - INFO - 59 changes detected
+2026-06-22 11:23:40,318 - INFO - 1 change detected
+2026-06-22 11:24:01,876 - INFO - 1 change detected
+2026-06-22 11:28:02,237 - INFO - 3 changes detected
+2026-06-22 11:28:02,954 - INFO - 1 change detected
+2026-06-22 11:28:10,169 - INFO - 1 change detected
+2026-06-22 11:29:54,122 - INFO - 3 changes detected
+2026-06-22 11:29:54,968 - INFO - 1 change detected
+2026-06-22 11:30:00,638 - INFO - 4 changes detected
+2026-06-22 11:30:01,371 - INFO - 1 change detected
+2026-06-22 11:30:10,812 - INFO - 4 changes detected
+2026-06-22 11:30:36,083 - INFO - 4 changes detected
+2026-06-22 11:30:36,837 - INFO - 1 change detected
+2026-06-22 11:30:37,203 - INFO - 5 changes detected
+2026-06-22 11:30:45,377 - INFO - 4 changes detected
+2026-06-22 11:30:46,090 - INFO - 1 change detected
+2026-06-22 11:30:46,456 - INFO - 5 changes detected
+2026-06-22 11:30:51,554 - INFO - 4 changes detected
+2026-06-22 11:30:52,338 - INFO - 1 change detected
+2026-06-22 11:30:52,704 - INFO - 5 changes detected
+2026-06-22 11:31:20,445 - INFO - 4 changes detected
+2026-06-22 11:31:21,238 - INFO - 1 change detected
+2026-06-22 11:31:21,589 - INFO - 5 changes detected
+2026-06-22 11:31:31,154 - INFO - 1 change detected
+2026-06-22 11:32:45,061 - INFO - 4 changes detected
+2026-06-22 11:44:07,701 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:45:57,161 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:45:58,841 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:46:04,601 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:46:09,596 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:46:12,992 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:47:38,035 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:47:39,381 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:47:45,311 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:47:49,238 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:47:52,172 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:51:18,619 - INFO - 4 changes detected
+2026-06-22 11:51:19,200 - INFO - 4 changes detected
+2026-06-22 11:52:00,974 - INFO - 4 changes detected
+2026-06-22 11:52:20,254 - INFO - 4 changes detected
+2026-06-22 11:53:09,509 - INFO - 6 changes detected
+2026-06-22 11:53:37,127 - INFO - 4 changes detected
+2026-06-22 11:57:15,712 - INFO - 3 changes detected
+2026-06-22 11:58:21,238 - INFO - 2 changes detected
+2026-06-22 11:58:23,965 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:58:25,412 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:58:30,063 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:58:33,364 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:58:37,013 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 11:58:37,116 - INFO - 4 changes detected
+2026-06-22 11:58:58,668 - INFO - 1 change detected
+2026-06-22 12:01:26,511 - INFO - 4 changes detected
+2026-06-22 12:03:21,755 - INFO - 15 changes detected
+2026-06-22 12:03:36,695 - INFO - 2 changes detected
+2026-06-22 12:03:37,901 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:03:39,468 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:03:45,827 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:03:49,207 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:03:52,658 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:03:52,941 - INFO - 6 changes detected
+2026-06-22 12:04:48,464 - INFO - 4 changes detected
+2026-06-22 12:05:10,004 - INFO - 4 changes detected
+2026-06-22 12:05:49,674 - INFO - 4 changes detected
+2026-06-22 12:06:49,135 - INFO - 4 changes detected
+2026-06-22 12:08:33,930 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/autocomplete/json?input=Delhi&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4&types=%28cities%29&language=en "HTTP/1.1 200 OK"
+2026-06-22 12:08:34,047 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJL_P_CXMEDTkRw0ZdG-0GVvw&fields=geometry%2Caddress_components&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-06-22 12:08:34,128 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/timezone/json?location=28.6814551%2C77.22279&timestamp=631144800&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-06-22 12:08:34,355 - INFO - 2 changes detected
+2026-06-22 12:08:34,355 - INFO - 2 changes detected
+2026-06-22 12:08:34,771 - INFO - 8 changes detected
+2026-06-22 12:08:34,771 - INFO - 8 changes detected
+2026-06-22 12:08:37,352 - INFO - 4 changes detected
+2026-06-22 12:09:38,435 - INFO - 2 changes detected
+2026-06-22 12:09:38,450 - INFO - 2 changes detected
+2026-06-22 12:09:40,522 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:09:41,990 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:09:47,011 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:09:51,350 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:09:54,611 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:09:54,711 - INFO - 4 changes detected
+2026-06-22 12:09:54,727 - INFO - 4 changes detected
+2026-06-22 12:10:03,620 - INFO - 4 changes detected
+2026-06-22 12:10:03,634 - INFO - 4 changes detected
+2026-06-22 12:12:05,005 - INFO - 4 changes detected
+2026-06-22 12:13:11,834 - INFO - 2 changes detected
+2026-06-22 12:13:11,835 - INFO - 2 changes detected
+2026-06-22 12:13:13,097 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:13:14,244 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:13:18,504 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:13:21,554 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:13:24,331 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 12:13:24,417 - INFO - 4 changes detected
+2026-06-22 12:13:24,418 - INFO - 4 changes detected
+2026-06-22 12:13:29,261 - INFO - 4 changes detected
+2026-06-22 12:13:29,262 - INFO - 4 changes detected
+2026-06-22 12:13:35,196 - INFO - 4 changes detected
+2026-06-22 12:32:43,017 - INFO - 1 change detected
+2026-06-22 12:32:43,026 - INFO - 1 change detected
+2026-06-22 12:32:43,396 - INFO - 1 change detected
+2026-06-22 12:32:43,396 - INFO - 1 change detected
+2026-06-22 12:32:44,161 - INFO - 1 change detected
+2026-06-22 12:45:48,307 - INFO - 4 changes detected
+2026-06-22 12:45:48,315 - INFO - 4 changes detected
+2026-06-22 12:46:10,608 - INFO - 4 changes detected
+2026-06-22 12:46:10,608 - INFO - 4 changes detected
+2026-06-22 12:46:34,303 - INFO - 4 changes detected
+2026-06-22 12:46:52,566 - INFO - 4 changes detected
+2026-06-22 13:01:31,774 - INFO - 1 change detected
+2026-06-22 13:01:31,822 - INFO - 1 change detected
+2026-06-22 13:01:32,135 - INFO - 1 change detected
+2026-06-22 13:01:32,185 - INFO - 1 change detected
+2026-06-22 13:02:43,014 - INFO - 1 change detected
+2026-06-22 13:02:43,016 - INFO - 1 change detected
+2026-06-22 13:02:43,373 - INFO - 1 change detected
+2026-06-22 13:02:44,128 - INFO - 1 change detected
+2026-06-22 13:02:44,128 - INFO - 1 change detected
+2026-06-22 13:05:14,031 - INFO - 1 change detected
+2026-06-22 13:32:42,928 - INFO - 1 change detected
+2026-06-22 13:33:56,474 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/autocomplete/json?input=Delhi&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4&types=%28cities%29&language=en "HTTP/1.1 200 OK"
+2026-06-22 13:33:56,610 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJL_P_CXMEDTkRw0ZdG-0GVvw&fields=geometry%2Caddress_components&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-06-22 13:33:56,700 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/timezone/json?location=28.6814551%2C77.22279&timestamp=631144800&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-06-22 13:33:57,275 - INFO - 7 changes detected
+2026-06-22 13:33:57,797 - INFO - 2 changes detected
+2026-06-22 13:34:07,172 - INFO - 2 changes detected
+2026-06-22 13:34:09,195 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 13:34:10,564 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 13:34:18,893 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 13:34:22,960 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 13:34:26,380 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 13:34:26,475 - INFO - 4 changes detected
+2026-06-22 13:35:08,043 - INFO - 4 changes detected
+2026-06-22 13:37:14,824 - INFO - 4 changes detected
+2026-06-22 13:37:39,799 - INFO - 4 changes detected
+2026-06-22 13:37:41,917 - INFO - 4 changes detected
+2026-06-22 14:02:43,200 - INFO - 1 change detected
+2026-06-22 14:08:22,799 - INFO - 5 changes detected
+2026-06-22 14:08:28,092 - INFO - 4 changes detected
+2026-06-22 14:08:41,215 - INFO - 4 changes detected
+2026-06-22 14:09:06,371 - INFO - 2 changes detected
+2026-06-22 14:09:08,657 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 14:09:08,750 - INFO - 4 changes detected
+2026-06-22 14:10:02,308 - INFO - 4 changes detected
+2026-06-22 14:15:42,663 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/autocomplete/json?input=New%20Delhi&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4&types=%28cities%29&language=en "HTTP/1.1 200 OK"
+2026-06-22 14:15:42,762 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJLbZ-NFv9DDkRzk0gTkm3wlI&fields=geometry%2Caddress_components&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-06-22 14:15:42,848 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/timezone/json?location=28.6139298%2C77.2088282&timestamp=536536800&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-06-22 14:15:43,089 - INFO - 2 changes detected
+2026-06-22 14:15:43,446 - INFO - 7 changes detected
+2026-06-22 14:15:43,805 - INFO - 1 change detected
+2026-06-22 14:16:10,101 - INFO - 4 changes detected
+2026-06-22 14:16:27,075 - INFO - 4 changes detected
+2026-06-22 14:17:55,439 - INFO - 2 changes detected
+2026-06-22 14:17:57,290 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 14:17:58,885 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 14:18:07,675 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 14:18:12,883 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 14:18:16,624 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 14:18:16,994 - INFO - 4 changes detected
+2026-06-22 14:19:42,815 - INFO - 4 changes detected
+2026-06-22 14:25:06,328 - INFO - 4 changes detected
+2026-06-22 14:25:15,913 - INFO - 4 changes detected
+2026-06-22 14:25:36,307 - INFO - 4 changes detected
+2026-06-22 14:32:42,407 - INFO - 1 change detected
+2026-06-22 15:02:42,366 - INFO - 1 change detected
+2026-06-22 15:02:42,734 - INFO - 1 change detected
+2026-06-22 15:02:43,493 - INFO - 1 change detected
+2026-06-23 00:03:17,242 - INFO - 1 change detected
+2026-06-23 16:57:00,237 - INFO - 1 change detected
+2026-06-23 16:57:00,600 - INFO - 1 change detected
+2026-06-23 16:57:01,311 - INFO - 1 change detected
+2026-06-23 16:57:01,670 - INFO - 1 change detected
+2026-06-23 16:57:13,393 - INFO - 1 change detected
+2026-06-23 17:27:00,534 - INFO - 1 change detected
+2026-06-23 17:57:00,302 - INFO - 1 change detected
+2026-06-23 18:27:00,368 - INFO - 1 change detected
+2026-06-23 18:27:00,726 - INFO - 1 change detected
+2026-06-23 18:27:01,472 - INFO - 1 change detected
+2026-06-23 18:34:17,140 - INFO - 1 change detected
+2026-06-23 18:34:17,502 - INFO - 1 change detected
+2026-06-23 18:34:17,867 - INFO - 1 change detected
+2026-06-23 18:34:18,233 - INFO - 1 change detected
+2026-06-23 18:35:08,939 - INFO - 1 change detected
+2026-06-24 02:39:27,822 - INFO - 1 change detected
+2026-06-24 02:39:28,187 - INFO - 1 change detected
+2026-06-24 02:39:47,109 - INFO - 1 change detected
+2026-06-24 02:39:59,778 - INFO - 1 change detected
+2026-06-24 03:09:11,942 - INFO - 1 change detected
+2026-06-24 03:09:12,310 - INFO - 1 change detected
+2026-06-24 03:09:13,127 - INFO - 1 change detected
+2026-06-24 03:39:11,232 - INFO - 1 change detected
+2026-07-03 17:01:55,770 - INFO - 4 changes detected
+2026-07-03 17:02:04,403 - INFO - 2 changes detected
+2026-07-03 17:02:12,257 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:02:15,559 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:02:19,841 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:02:26,921 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:02:32,801 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:02:36,088 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/autocomplete/json?input=Delhi&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4&types=%28cities%29&language=en "HTTP/1.1 200 OK"
+2026-07-03 17:02:36,178 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJL_P_CXMEDTkRw0ZdG-0GVvw&fields=geometry%2Caddress_components&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-07-03 17:02:36,255 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/timezone/json?location=28.6814551%2C77.22279&timestamp=631144800&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-07-03 17:02:36,535 - INFO - 2 changes detected
+2026-07-03 17:02:42,384 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:02:51,603 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:02:51,715 - INFO - 4 changes detected
+2026-07-03 17:02:52,069 - INFO - 2 changes detected
+2026-07-03 17:02:53,000 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:02:56,243 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:03:00,690 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:03:08,725 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:03:13,928 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:03:20,164 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:03:28,885 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:03:28,988 - INFO - 4 changes detected
+2026-07-03 17:03:44,320 - INFO - 4 changes detected
+2026-07-03 17:03:51,695 - INFO - 4 changes detected
+2026-07-03 17:03:55,129 - INFO - 4 changes detected
+2026-07-03 17:04:53,772 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:04:56,579 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:05:00,970 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:05:08,857 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:05:14,338 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:05:22,487 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:05:42,521 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:05:43,303 - INFO - 22 changes detected
+2026-07-03 17:05:45,821 - INFO - 4 changes detected
+2026-07-03 17:05:46,181 - INFO - 2 changes detected
+2026-07-03 17:05:48,774 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:05:51,135 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:05:55,964 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:05:59,934 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:06:04,337 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:06:07,377 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:06:11,699 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:06:11,835 - INFO - 6 changes detected
+2026-07-03 17:06:13,183 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:06:15,898 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:06:19,850 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:06:26,945 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:06:29,580 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:06:37,453 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:06:37,541 - INFO - 4 changes detected
+2026-07-03 17:07:27,041 - INFO - 4 changes detected
+2026-07-03 17:07:59,781 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:08:03,157 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:08:07,496 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:08:12,077 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:08:16,530 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:08:22,903 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:08:32,025 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:08:32,845 - INFO - 10 changes detected
+2026-07-03 17:08:36,254 - INFO - 5 changes detected
+2026-07-03 17:08:36,613 - INFO - 4 changes detected
+2026-07-03 17:08:39,897 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:08:42,118 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:08:46,594 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:08:49,865 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:08:53,944 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:08:57,466 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:09:00,589 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:09:00,670 - INFO - 4 changes detected
+2026-07-03 17:09:31,599 - INFO - 2 changes detected
+2026-07-03 17:09:33,317 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:09:35,587 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:09:40,707 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:09:46,431 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:09:48,428 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:09:56,150 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:09:56,260 - INFO - 4 changes detected
+2026-07-03 17:10:19,033 - INFO - 4 changes detected
+2026-07-03 17:10:35,993 - INFO - 4 changes detected
+2026-07-03 17:11:12,972 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:11:15,423 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:11:19,555 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:11:24,981 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:11:26,915 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:11:32,875 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:11:33,711 - INFO - 21 changes detected
+2026-07-03 17:11:36,985 - INFO - 10 changes detected
+2026-07-03 17:11:39,508 - INFO - 4 changes detected
+2026-07-03 17:11:39,869 - INFO - 2 changes detected
+2026-07-03 17:11:42,303 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:11:44,476 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:11:48,436 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:11:51,036 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:11:54,997 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:11:57,638 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:12:00,676 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:12:00,779 - INFO - 4 changes detected
+2026-07-03 17:12:35,236 - INFO - 5 changes detected
+2026-07-03 17:14:33,066 - INFO - 4 changes detected
+2026-07-03 17:14:33,775 - INFO - 5 changes detected
+2026-07-03 17:14:47,994 - INFO - 4 changes detected
+2026-07-03 17:15:02,072 - INFO - 4 changes detected
+2026-07-03 17:15:56,177 - INFO - 3 changes detected
+2026-07-03 17:16:37,572 - INFO - 8 changes detected
+2026-07-03 17:16:40,895 - INFO - 5 changes detected
+2026-07-03 17:16:43,568 - INFO - 4 changes detected
+2026-07-03 17:17:20,722 - INFO - 10 changes detected
+2026-07-03 17:17:21,430 - INFO - 8 changes detected
+2026-07-03 17:17:23,201 - INFO - 1 change detected
+2026-07-03 17:17:23,557 - INFO - 4 changes detected
+2026-07-03 17:17:23,914 - INFO - 14 changes detected
+2026-07-03 17:18:07,012 - INFO - 4 changes detected
+2026-07-03 17:18:13,920 - INFO - 4 changes detected
+2026-07-03 17:18:22,845 - INFO - 4 changes detected
+2026-07-03 17:18:29,516 - INFO - 4 changes detected
+2026-07-03 17:18:36,940 - INFO - 4 changes detected
+2026-07-03 17:18:56,380 - INFO - 2 changes detected
+2026-07-03 17:18:58,350 - INFO - 1 change detected
+2026-07-03 17:18:58,703 - INFO - 7 changes detected
+2026-07-03 17:18:59,212 - INFO - 3 changes detected
+2026-07-03 17:19:39,335 - INFO - 1 change detected
+2026-07-03 17:26:58,692 - INFO - 4 changes detected
+2026-07-03 17:27:35,193 - INFO - 4 changes detected
+2026-07-03 17:27:59,821 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/autocomplete/json?input=Delhi&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4&types=%28cities%29&language=en "HTTP/1.1 200 OK"
+2026-07-03 17:27:59,921 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJL_P_CXMEDTkRw0ZdG-0GVvw&fields=geometry%2Caddress_components&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-07-03 17:28:00,005 - INFO - HTTP Request: GET https://maps.googleapis.com/maps/api/timezone/json?location=28.6814551%2C77.22279&timestamp=631144800&key=AIzaSyBAeXZcsI9hPrD03zyAJSQ9qB8O4aLW-Y4 "HTTP/1.1 200 OK"
+2026-07-03 17:28:00,317 - INFO - 2 changes detected
+2026-07-03 17:28:00,669 - INFO - 6 changes detected
+2026-07-03 17:28:04,246 - INFO - 2 changes detected
+2026-07-03 17:28:06,637 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:28:09,240 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:28:14,459 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:28:18,418 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:28:20,460 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:28:24,634 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-03 17:28:24,751 - INFO - 4 changes detected
+2026-07-03 17:33:15,610 - INFO - 81 changes detected
+2026-07-03 17:33:15,977 - INFO - 46 changes detected

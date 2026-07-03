@@ -1,0 +1,22 @@
+Classify the user's message. Return ONLY valid JSON. No prose, no markdown, no code fences.
+
+Fields:
+- intent: one of TIMING, THEMATIC, MIXED, FORECAST, EDUCATIONAL, REFLECTIVE, COACHING, CONCEPT_EXPLANATION
+- life_area: one of CAREER, RELATIONSHIP, MARRIAGE, MONEY, FAMILY, HOME, EDUCATION, HEALTH_GENERAL, SPIRITUALITY, IDENTITY, OTHER
+- answer_style: one of PLAIN, BLENDED, TECHNICAL
+- answer_depth: one of CONCISE, STANDARD, DEEP
+- emotional_risk: one of LOW, MEDIUM, HIGH
+- needs_kb: true or false
+- needs_divisional_chart: true or false
+- suggested_divisional_charts: array of chart IDs, e.g. ["D9", "D10"]
+
+Rules:
+- Default answer_style is BLENDED unless the user asks for simple language, technical detail, or no astrology terms.
+- Default answer_depth is STANDARD.
+- Use PLAIN for emotionally sensitive questions unless technical detail is explicitly requested.
+- Use TECHNICAL only when the user asks for chart logic, calculations, placements, dashas, yogas, divisional charts, or proof.
+- Use needs_divisional_chart=true when the topic requires confirmation beyond D1 (e.g. marriage->D9, career->D10, money->D2, education->D24).
+- Set emotional_risk HIGH for distress, self-worth, grief, breakups, health fears; MEDIUM for sensitive life topics; LOW otherwise.
+- Return JSON only. No explanation.
+
+Example: {"intent":"MIXED","life_area":"MARRIAGE","answer_style":"BLENDED","answer_depth":"STANDARD","emotional_risk":"MEDIUM","needs_kb":true,"needs_divisional_chart":true,"suggested_divisional_charts":["D9"]}
